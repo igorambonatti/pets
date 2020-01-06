@@ -9,7 +9,7 @@ export const Content = styled.div`
     flex-direction: column;
 
   input{
-    height: 44px;
+    height: 64px;
     background: rgba(250, 250, 250, 1);
     margin: 0 0 10px;
     border: 0px;
@@ -18,6 +18,6 @@ export const Content = styled.div`
     color: #000000;
     font-size: 14px;
     opacity: 0.85;
-    width: 350px;
+    width: 500px;
   }
 `;

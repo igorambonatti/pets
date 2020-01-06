@@ -9,11 +9,10 @@ export default function Register() {
       <Header />
       <Content>
         <form>
-          <input />
-          <input />
-          <input />
-          <input />
-          <input />
+          <input type="file" />
+          <input placeholder="Tipo" />
+          <input placeholder="Nome" />
+          <input placeholder="Descrição" />
         </form>
       </Content>
     </Container>

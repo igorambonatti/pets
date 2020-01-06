@@ -18,9 +18,10 @@ export const View = styled.div`
   }
   height: 100%;
   background: #fff;
-  padding: 20px;
+  padding: 50px;
   opacity: 1;
   width: 50%;
+  margin-top: 80px;
   h1 {
     margin-top: 25px;
     font-size: 20px;
