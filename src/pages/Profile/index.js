@@ -13,16 +13,13 @@ export default function Profile() {
             <img src="" alt="" />
           </div>
           <h1>
-            <strong>Nome:</strong> BOB O CÃO
+            <strong>Nome:</strong> BOB
           </h1>
           <h2>
-            <strong>Biotipo:</strong> BUCICA
+            <strong>Biotipo:</strong> CACHORRO
           </h2>
           <h3>
-            <strong>Descrição:</strong> CAHORRO MUITOA VMANVASDJA
-            LAKFSAFKALKLFKSLKF LAKSÇLFKLÇAKFAAAA CAHORRO MUITOA VMANVASDJA
-            LAKFSAFKALKLFKSLKF LAKSÇLFKLÇAKFAAAA CAHORRO MUITOA VMANVASDJA
-            LAKFSAFKALKLFKSLKF LAKSÇLFKLÇAKFAAAA
+            <strong>Descrição:</strong>
           </h3>
         </View>
       </Content>

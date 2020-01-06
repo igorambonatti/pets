@@ -12,7 +12,8 @@ export const View = styled.div`
   div {
     margin: auto;
     height: 300px;
-    width: 300px;
+    max-width: 350px;
+    width: 100%;
     background: #696969;
     align-content: center;
   }

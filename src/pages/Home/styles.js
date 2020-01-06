@@ -17,8 +17,11 @@ export const Info = styled.li`
   padding: 20px;
   border-radius: 4px;
   background: #fff;
+  margin-bottom: 25px;
 
   > div {
+    min-width: 0px;
+    max-width: 380px;
     display: flex;
     background: #696969;
     height: 250px;

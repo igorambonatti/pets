@@ -1,15 +1,18 @@
 import styled from 'styled-components';
 
 export const Container = styled.div``;
+
 export const Content = styled.div`
+margin: 50px auto;
+  max-width: 500px;
+  text-align: center;
   form {
-    margin-top: 100px;
-    align-items:center;
     display: flex;
     flex-direction: column;
+    margin-top: 30px;
 
   input{
-    height: 64px;
+    height:58px;
     background: rgba(250, 250, 250, 1);
     margin: 0 0 10px;
     border: 0px;
@@ -18,6 +21,5 @@ export const Content = styled.div`
     color: #000000;
     font-size: 14px;
     opacity: 0.85;
-    width: 500px;
   }
 `;

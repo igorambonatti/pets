@@ -2,16 +2,16 @@
 import React from 'react';
 
 import { Link } from 'react-router-dom';
-import { Container, Content, Info } from './styles';
+import { Container, Info, Content } from './styles';
 import Header from '../../components/Header/index';
 
 import igor from '../../assets/igor.jpg';
 
 export default function Home() {
   return (
-    <Container>
+    <Content>
       <Header />
-      <Content>
+      <Container>
         <ul>
           <Info>
             <div>
@@ -74,7 +74,7 @@ export default function Home() {
             </Link>
           </Info>
         </ul>
-      </Content>
-    </Container>
+      </Container>
+    </Content>
   );
 }
