@@ -3,11 +3,10 @@ import styled from 'styled-components';
 export const Container = styled.div`
   background: #fff;
   margin: 0 auto;
-  padding: 0 20px;
 `;
 
 export const Content = styled.div`
-  max-width: 1600px;
+  max-width: 1200px;
 
   height: 60px;
   display: flex;

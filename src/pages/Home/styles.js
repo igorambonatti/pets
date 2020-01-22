@@ -1,25 +1,32 @@
 import styled from 'styled-components';
 
+export const Content = styled.div``;
+
 export const Container = styled.div`
+  margin: auto;
+  display: flex;
+  max-width: 1200px;
   ul {
+    margin-top: 30px;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-gap: 15px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
     padding: 30px;
+    width: 100%;
   }
 `;
-export const Content = styled.div``;
 
 export const Info = styled.li`
   height: 350px;
   margin: auto;
-  width: 380px;
+  width: 350px;
   padding: 20px;
   border-radius: 4px;
   background: #fff;
   margin-bottom: 25px;
 
   > div {
+    margin: auto;
     min-width: 0px;
     max-width: 380px;
     display: flex;
