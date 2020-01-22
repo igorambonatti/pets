@@ -37,6 +37,7 @@ export const Info = styled.li`
     img {
       margin: auto;
       height: 100%;
+      width: 100%;
     }
   }
   button {

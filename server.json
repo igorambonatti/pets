@@ -1,0 +1,40 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "type": "Cachorro",
+      "name": "Bob",
+      "image": "https://www.petlove.com.br/dicas/wp-content/uploads/2018/05/golden-idoso.jpg"
+    },
+    {
+      "id": 2,
+      "type": "Tucano",
+      "name": "Fred",
+      "image": "https://teresaperez.com.br/files/editorials/1c82872cc3847.jpg"
+    },
+    {
+      "id": 3,
+      "type": "Cachorro",
+      "name": "Bela",
+      "image": "http://data.biovet.com.br/file/2018/10/29/H104520-F00000-V006-2000x0.jpeg"
+    },
+    {
+      "id": 4,
+      "type": "Panda",
+      "name": "Jojo",
+      "image": "https://img.quizur.com/f/img5dc4531199f627.36640452.jpg?lastEdited=1573147444"
+    },
+    {
+      "id": 5,
+      "type": "Coala",
+      "name": "Faisca",
+      "image": "https://t1.ea.ltmcdn.com/pt/images/6/6/1/img_os_10_animais_mais_lentos_do_mundo_21166_600.jpg"
+    },
+    {
+      "id": 6,
+      "type": "Ovelha",
+      "name": "Branquinha",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4pudZGnp-Px-c34AewFUhxYgeOPYSMCIrdjvEHGHGsi-dRJDbQ&s"
+    }
+  ]
+}
