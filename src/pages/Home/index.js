@@ -36,6 +36,7 @@ export default function Home() {
           ))}
         </ul>
       </Container>
+      <button type="submit">Ver mais</button>
     </Content>
   );
 }

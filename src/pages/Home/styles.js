@@ -1,11 +1,21 @@
 import styled from 'styled-components';
 
-export const Content = styled.div``;
+export const Content = styled.div`
+  button {
+    display: flex;
+    margin: auto;
+    width: 260px;
+    height: 35px;
+    justify-content: center;
+    margin: none;
+  }
+`;
 
 export const Container = styled.div`
   margin: auto;
   display: flex;
   max-width: 1200px;
+
   ul {
     margin-top: 30px;
     display: grid;
@@ -20,7 +30,7 @@ export const Info = styled.li`
   height: 350px;
   margin: auto;
   width: 350px;
-  padding: 20px;
+  padding: 10px;
   border-radius: 4px;
   background: #fff;
   margin-bottom: 25px;
